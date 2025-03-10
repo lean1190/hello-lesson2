@@ -1,3 +1,1 @@
-print("Hey there you you!")
-print("Another print")
-print("Another print 2")
+print("This is main")
